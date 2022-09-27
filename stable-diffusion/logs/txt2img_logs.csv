@@ -1,0 +1,67 @@
+prompt,outdir,skip_grid,skip_save,ddim_steps,fixed_code,ddim_eta,n_iter,H,W,C,f,n_samples,n_rows,scale,device,from_file,seed,unet_bs,turbo,precision,format,sampler
+"a close-up portrait of a cat by pablo picasso, vivid, abstract art, colorful, vibrant",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,239087,1,False,autocast,png,plms
+"a hacker den with people programming, realistic",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,229752,1,False,autocast,png,plms
+"a hacker den with people programming, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,292934,1,False,autocast,png,plms
+a corgi in minecraft,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,715068,1,False,autocast,png,plms
+someone playing new world video game,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,162161,1,False,autocast,png,plms
+"a photograph of a corgi wearing a baseball hat sitting on a couch, vivid, photorealistic, magical, fantasy, 8K UHD, photography",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,890015,1,False,autocast,png,plms
+"a photograph of a corgi wearing a baseball hat sitting on a couch, vivid, photorealistic, magical, fantasy, 8K UHD, photography",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,27987,1,False,autocast,png,plms
+"avacado chair, vivid, photorealistic, 8K UHD, photography",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,660150,1,False,autocast,png,plms
+"avacado-shaped plush chair, vivid, photorealistic, 8K UHD, photography",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,915901,1,False,autocast,png,plms
+"nintendo switchblade, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,569883,1,False,autocast,png,plms
+"nintendo switchblade knife, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,755110,1,False,autocast,png,plms
+"nintendo switch joycon knife, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,618256,1,False,autocast,png,plms
+"nintendo joycon knife, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,105873,1,False,autocast,png,plms
+"knife with nintendo joycon as handle, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,122756,1,False,autocast,png,plms
+"switchblade with nintendo joycon as handle, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,949313,1,False,autocast,png,plms
+"switchblade knife with nintendo joycon as handle, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,414197,1,False,autocast,png,plms
+"switchblade knife with nintendo joycon handle on a table, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,17304,1,False,autocast,png,plms
+"sharp switchblade knife with nintendo joycon handle on a table, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,848034,1,False,autocast,png,plms
+"among us imposter photorealistic, hyperrealistic, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,599938,1,False,autocast,png,plms
+"among us character, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,494901,1,False,autocast,png,plms
+"among us video game character, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,658194,1,False,autocast,png,plms
+"minecraft herobrine, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,290142,1,False,autocast,png,plms
+"herobrine, vivid, 8K UHD, octane render",outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,950524,1,False,autocast,png,plms
+Joe Biden and Donald Trump Fighting,outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,121804,1,False,autocast,png,plms
+Joe Biden fighting Donald Trump,outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,918103,1,False,autocast,png,plms
+Bill Gates punching Mark Zuckerberg,outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,927756,1,False,autocast,png,plms
+Mark Zuckerberg as a Lizard,outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,204328,1,False,autocast,png,plms
+Bill gates kissing jeffery epstein,outputs/txt2img-samples,False,False,50,False,0.0,5,512,512,4,8,1,0,7.5,cuda,,412198,1,False,autocast,png,plms
+Bill gates kissing jeffery epstein,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,311012,1,False,autocast,png,plms
+A tongue tied to a tonsil,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,70220,1,False,autocast,png,plms
+A tongue tied to a tonsil,outputs/txt2img-samples,False,False,50,False,0.0,1,1080,1920,4,8,5,0,7.5,cuda,,712885,1,False,autocast,png,plms
+"A steampunk AI computer, clockwork, 8k UHD, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,1080,1920,4,8,5,0,7.5,cuda,,311232,1,False,autocast,png,plms
+"A steampunk AI computer, clockwork, 8k UHD, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,1024,1024,4,8,5,0,7.5,cuda,,110633,1,False,autocast,png,plms
+"A steampunk AI computer, clockwork, 8k UHD, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,720,720,4,8,5,0,7.5,cuda,,456467,1,False,autocast,png,plms
+"A steampunk AI computer, clockwork, 8k UHD, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,500,500,4,8,5,0,7.5,cuda,,980134,1,False,autocast,png,plms
+"A steampunk AI computer, clockwork, 8k UHD, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,115272,1,False,autocast,png,plms
+vim vs emacs,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,284582,1,False,autocast,png,plms
+vim vs emacs,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,248572,1,False,autocast,png,plms
+vim emacs,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,991093,1,False,autocast,png,plms
+arch linux,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,192583,1,False,autocast,png,plms
+hell,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,648564,1,False,autocast,png,plms
+crying pepe,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,385679,1,False,autocast,png,plms
+"CPU City, realistic, 8K render",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,712946,1,False,autocast,png,plms
+AK-47 combined with AR-15,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,366722,1,False,autocast,png,plms
+futuristic gun,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,856479,1,False,autocast,png,plms
+stabby stick,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,904035,1,False,autocast,png,plms
+banishing crystal,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,515176,1,False,autocast,png,plms
+Speedwagon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,150371,1,False,autocast,png,plms
+elmo holding a shotgun,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,448019,1,False,autocast,png,plms
+lo-fi hip-hop cafe,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,222840,1,False,autocast,png,plms
+amogus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,892378,1,False,autocast,png,plms
+knife pizza,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,858259,1,False,autocast,png,plms
+knife pizza,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,165019,1,False,autocast,png,plms
+doomslayer holding a bunny,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,736966,1,False,autocast,png,plms
+"doomslayer holding a bunny, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,324938,1,False,autocast,png,plms
+doomslayer realistic killing Tom Nook,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,33636,1,False,autocast,png,plms
+"doomslayer holding a bunny, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,294229,1,False,autocast,png,plms
+"doomslayer shooting Tom Nook, realistic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,989948,1,False,autocast,png,plms
+elmo fucking dies,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,511591,1,False,autocast,png,plms
+a photograph of an astronaut riding a horse,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,26718,1,False,autocast,png,plms
+a seagull on a palm tree pooping,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,53121,1,False,autocast,png,plms
+a,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,580877,1,False,autocast,png,plms
+a room full of stuff,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,813170,1,False,autocast,png,plms
+"a seagull riding a motorcycle, epic, cinematic, greg rutkowski, dramatic",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,381960,1,False,autocast,png,plms
+Walter White Breaking Bad Skateboarding,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,783318,1,False,autocast,png,plms
+"Walter White Breaking Bad Skateboarding, low poly, render, 3d",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,713068,1,False,autocast,png,plms
